@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "ma-boles",
+	"description": "A project that does something awesome!",
+	"keywords": ["freeCodeCamp", "back-end development", "APIs"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
